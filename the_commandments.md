@@ -28,9 +28,14 @@ something
 * **Storage** : Box / Github / Bitbucket
 * **Team Communication** : Whatsapp / Slack
 
+---
 ### Process
+---
 ### Pillars
+---
 ### Guidelines
+----
 ### Troubleshooting
+----
 ### FAQs
 ----
