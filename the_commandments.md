@@ -2,7 +2,7 @@
 
 ###  Contents
 * [Goal](#goal)
-* [Software Stack(Mac and Windows)](#software stack)
+* [Software Stack(Mac and Windows)](#software-stack)
 * [Resources](#resources)
 * [Process](#process)
 * [Pillars](#Pillars)
