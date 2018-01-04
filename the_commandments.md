@@ -17,17 +17,13 @@ The goal of this radio and team is to ...
 
 ----
 ### Software Stack
-<details>
-<summary>Mac</summary>
+#### Mac
 * **DAW** : Garage Band
 * **Documentation** : Atom + Markdown package
-<br>
-</details>
 
-<details>
-<summary>Windows</summary>
-something.
-</details>
+#### Windows
+* **DAW** : Udacity
+* **Documentation** : SublimeText 3 + Markdown package
 
 ----
 
